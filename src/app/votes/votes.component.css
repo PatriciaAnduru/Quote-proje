@@ -1,7 +1,12 @@
 .voty {
-    text-align: left;
+    text-align: right;
+    padding: 1%;
 }
 
 #vot1 {
     margin-right: 15px;
+    padding: 1%;
+}
+#all{
+    background-color: rgb(160, 153, 88);
 }

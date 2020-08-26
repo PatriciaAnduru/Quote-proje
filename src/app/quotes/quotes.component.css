@@ -44,3 +44,12 @@
       height: 1040px;
     }
   }
+  h2{
+    font-family: sans-serif;
+    color: rgb(227, 238, 238);
+  }
+  #quote{
+    background-color: rgb(111, 148, 104);
+    background-size: cover;
+    background-attachment: fixed;
+  }
