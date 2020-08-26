@@ -1,0 +1,16 @@
+label {
+    color: rgb(224, 153, 20);
+}
+
+h2 {
+    color: rgb(49, 45, 45);
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.real {
+    border: 1px solid rgb(8, 8, 8);
+    background-color: #d4d4d4;
+    padding: 20px 20px 20px 20px;
+    box-shadow: 0 0 7px #5b615c;
+}
