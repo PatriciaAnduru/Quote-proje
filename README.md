@@ -16,13 +16,13 @@
 
 ## Setup/Installation requirements
 
-- Clone  or download and unzip the repository from github, [https://github.com/peter-wachira/Quotes-/](https://github.com/peter-wachira/Quotes-.git).
+- Clone  or download and unzip the repository from github, [ https://patriciaanduru.github.io/Quote-proje/].
 - If you have git Use this command `git clone *` to clone the project.
 - Run ng serve from your terminal
 
 ## Live Demo
 To view the page click on the link below
-* [https://peter-wachira.github.io/Quotes-/](*)
+* [ https://patriciaanduru.github.io/Quote-proje/](*)
 
 ## Technologies Used
 - Angular CLI
@@ -37,4 +37,4 @@ To view the page click on the link below
 - Make contributions to the code.
 
 ## License
-- This project is licensed under the MIT Open Source license Copyright (c) 2019. [Peter Wachira](https://github.com/peter-wachira)
+- This project is licensed under the MIT Open Source license Copyright (c) 2020. [Patricia Anduru]
