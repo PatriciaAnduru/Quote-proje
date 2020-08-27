@@ -31,7 +31,7 @@ To view the page click on the link below
 - There are no known bugs currently. The page works as expected.
 
 ## Support and Contact Details
-- For any comments,suggestions,feedback or inquiries, contact me via email: `pwachira900@gmail.com`
+- For any comments,suggestions,feedback or inquiries, contact me via email: `andurupatricia@gmail.com`
 
 
 - Make contributions to the code.
