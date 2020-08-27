@@ -16,7 +16,7 @@
 
 ## Setup/Installation requirements
 
-- Clone  or download and unzip the repository from github, [ https://patriciaanduru.github.io/Quote-proje/].
+- Clone  or download and unzip the repository from github, [ https://github.com/PatriciaAnduru/Quote-proje.git].
 - If you have git Use this command `git clone *` to clone the project.
 - Run ng serve from your terminal
 
